@@ -1,4 +1,4 @@
-# Welcome to Momento
+# Welcome to Momento 🚀
 
 Momento is the world's first serverless caching service. It has been built with the capabilities of the modern cloud in mind. Momento provides instant provisioning, auto-scaling up and down, and blazing-fast performance.
 
