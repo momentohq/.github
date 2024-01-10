@@ -1,4 +1,4 @@
-<img src="https://docs.momentohq.com/img/logo.svg" alt="logo" width="400"/>
+<img src="https://docs.momentohq.com/img/momento-logo-forest.svg" alt="logo" width="400"/>
 
 Momento is the world's first serverless caching service. It has been built with the capabilities of the modern cloud in mind. Momento provides instant provisioning, auto-scaling up and down, and blazing-fast performance.
 
