@@ -1,15 +1,9 @@
-<img src="https://docs.momentohq.com/img/momento-logo-forest.svg" alt="logo" width="400"/>
+[<img src="https://docs.momentohq.com/img/momento-logo-forest.svg" alt="logo" width="400"/>](https://gomomento.com)
 
-Momento is the world's first serverless caching service. It has been built with the capabilities of the modern cloud in mind. Momento provides instant provisioning, auto-scaling up and down, and blazing-fast performance.
+Momento is an enterprise-ready real-time data platform you can take to prod today. With [Cache](https://www.gomomento.com/services/cache), [Topics](https://www.gomomento.com/services/topics), and [Vector Index](https://www.gomomento.com/services/vector-index) services, you can leave the infrastructure to us so you can focus on what really matters.
 
-In the following pages, you can learn how to use Momento and about caching more broadly.
-
-- _If you want to get started using Momento_, check out the [Getting Started](https://docs.momentohq.com/docs/getting-started) reference.
-
-- _If you want to know more about Momento and how it works_, refer to the [How it works](https://docs.momentohq.com/docs/how-it-works) section, including the reference on [Momento Concepts](https://docs.momentohq.com/docs/how-it-works/momento-concepts).
-
-- _For specific guides on integrating with AWS Lambda or other systems_, look to the [Guides](https://docs.momentohq.com/docs/guides) section.
-
-- _If you want an in-depth tutorial of Momento in action_, look to our walkthrough on [adding a cache to a serverless application](https://docs.momentohq.com/docs/serverless-cache-walkthrough).
-
-- _Read about stories to help supercharge your databases and applications_, check out our [blog](https://www.gomomento.com/blog). 
+* To learn more about using the Momento SDKs and HTTP API, [check out our dev docs](https://docs.momentohq.com).
+* To start building, head over to the [Momento console](https://console.gomomento.com) to grab an auth token and create your first cache.
+* Want to see some of the cool stuff we've built completely on Momento? Check out [Momento Labs](https://momentolabs.io)!
+* Check out some of the [customer success stories](https://www.gomomento.com/resources/case-studies) on our site
+* Read some stories to help supercharge your databases and applications [on our blog](https://www.gomomento.com/blog). 
